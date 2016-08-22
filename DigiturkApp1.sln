@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiturkApp1", "DigiturkApp1\DigiturkApp1.csproj", "{A2486D59-7F0E-4EBE-80D4-8FAAFE87BF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClient", "MyClient\MyClient.csproj", "{41BA0B12-78DB-43B1-8F66-7FAEF1F70A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiturkApp2", "DigiturkApp2\DigiturkApp2.csproj", "{9641C1AC-DB62-46A3-9D09-7511F1A141F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2486D59-7F0E-4EBE-80D4-8FAAFE87BF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2486D59-7F0E-4EBE-80D4-8FAAFE87BF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2486D59-7F0E-4EBE-80D4-8FAAFE87BF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2486D59-7F0E-4EBE-80D4-8FAAFE87BF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BA0B12-78DB-43B1-8F66-7FAEF1F70A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BA0B12-78DB-43B1-8F66-7FAEF1F70A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BA0B12-78DB-43B1-8F66-7FAEF1F70A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BA0B12-78DB-43B1-8F66-7FAEF1F70A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9641C1AC-DB62-46A3-9D09-7511F1A141F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9641C1AC-DB62-46A3-9D09-7511F1A141F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9641C1AC-DB62-46A3-9D09-7511F1A141F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9641C1AC-DB62-46A3-9D09-7511F1A141F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
